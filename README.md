@@ -2,6 +2,8 @@
 
 A work-in-progress 3D scene built while following JavaScript Mastery's Three.js portfolio tutorial. I used this project to learn how a 3D model fits into a React website and to experiment with scene positioning, rotation, scale, lighting, and camera settings.
 
+[Video Example of experimentation](https://github.com/user-attachments/assets/087d6895-fe66-4741-8b75-41a75e958234)
+
 The current version focuses on the room scene. It is not a finished portfolio.
 
 ## Tutorial and credits
