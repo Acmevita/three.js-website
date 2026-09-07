@@ -71,4 +71,5 @@ npm run preview
 - The loading fallback is not yet wrapped around the model-loading component.
 
 ## Screenshot
-(Tentative)
+<img width="1211" height="803" alt="image" src="https://github.com/user-attachments/assets/129c9bc9-69bf-4278-9e23-ebb418c712cd" />
+
